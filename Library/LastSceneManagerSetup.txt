@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/StandaloneFileBrowser/Sample/BasicSampleScene.unity
+  isLoaded: 1
+  isActive: 1

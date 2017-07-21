@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using ReeperCommon.Logging;
 using UnityEditor;
 using UnityEngine;
 
@@ -107,6 +106,7 @@ namespace Assets.Plugins.KSPAssets.Editor
 }
 
 
+/*
 Oh.... new version of the free TMPro. Was worried about that. Hmm. Ok. Will do something like this for an update.
 	MOARdV likes this  Like this
 	Quote
@@ -232,3 +232,4 @@ namespace Assets.Plugins.KSPAssets.Editor
 		}
 	}
 }
+*/

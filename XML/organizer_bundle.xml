@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPBundleDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UrlName="organizer" Name="organizer" CreatedTime="-8587010111438107609">
+  <Author />
+  <Info />
+  <Assets>
+    <Asset Name="GameObject" Path="Assets/GameObject.prefab" Type="GameObject" Url="GameObject" AutoLoad="false" />
+    <Asset Name="Main Camera" Path="Assets/Main Camera.prefab" Type="GameObject" Url="Main Camera" AutoLoad="false" />
+  </Assets>
+  <Dependencies />
+</KSPBundleDefinition>

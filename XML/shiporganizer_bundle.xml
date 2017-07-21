@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPBundleDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UrlName="shiporganizer" Name="shiporganizer" CreatedTime="-8587010111436520912">
+  <Author>prgmTrouble</Author>
+  <Info />
+  <Assets>
+    <Asset Name="shiporganizer_kspedia" Path="Assets/XML/shiporganizer_kspedia.xml" Type="TextAsset" Url="XML/shiporganizer_kspedia" AutoLoad="false" />
+  </Assets>
+  <Dependencies />
+</KSPBundleDefinition>
